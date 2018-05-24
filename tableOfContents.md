@@ -16,6 +16,7 @@ class: middle, center
   * Quick review of ES6 features.
   * Practice: Setting up Webpack.
   * Q&A.
+  * [Github](https://github.com/nomadcoders/nomflix/commit/4cf257937e55fcbfe88ae240645241d5bbe7b7a6)
 
 * **Day Two**:
 
