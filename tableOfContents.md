@@ -16,12 +16,12 @@ class: middle, center
   * Quick review of ES6 features.
   * Practice: Setting up Webpack.
   * Q&A.
-  * [Github](https://github.com/nomadcoders/nomflix/commit/4cf257937e55fcbfe88ae240645241d5bbe7b7a6)
+  * [Github Commit.](https://github.com/nomadcoders/nomflix/commit/4cf257937e55fcbfe88ae240645241d5bbe7b7a6)
 
 * **Day Two**:
 
-  * Overview of the most important CSSNext features.
-  * Introduction to CSS Grid.
+  * Set up Webpack with HTML, Dev Server, CSS Next.
+  * Introduction to CSS Grid. [👉](/nomflix-materials/cssGridIntro/)
   * Practice / Homework: Impossible layouts with CSS Grid.
   * Q&A.
 
