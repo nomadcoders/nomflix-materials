@@ -136,4 +136,4 @@ Just like flexbox we can use justify-\* and align-\*.
 
 --
 
-* `place-content`: Shorthand. `place-content: <align-items> / <justify-items>`
+* `place-content`: Shorthand. `place-content: <align-content> / <justify-content>`
