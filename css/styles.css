@@ -7,3 +7,9 @@ body {
 img {
   max-width: 100%;
 }
+
+a {
+  border-bottom: 2px solid #f1c40f;
+  color: #2c2c2c;
+  text-decoration: none;
+}

@@ -65,16 +65,10 @@ class: middle, center
 
 ---
 
-class: middle, center
-
 # NodeJS loves package.json
 
---
-
-## Seriously, it can't live without it
-
----
-
 * package.json gives information to NodeJS about your projects, what packages it needs and how to behave.
+
+--
 
 * You'll learn how to master the package.json + npm + NodeJS combination on this course.
