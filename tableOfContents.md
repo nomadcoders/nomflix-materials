@@ -11,7 +11,7 @@ class: middle, center
 * **Day One**:
 
   * Overview of the current Front-end landscape that a junior developer has to face when starting to work with Javascript with an explanation of the tools that are gonna be used on the course and why. [👉](/nomflix-materials/landscape/)
-  * Introduction to NodeJS. [👉](/nomflix-materials/landscape/)
+  * Introduction to NodeJS. [👉](/nomflix-materials/introToNode/)
   * ES6 & [CSSNext](http://cssnext.io/) overview and explanation.
   * Quick review of ES6 features.
   * Practice: Setting up Webpack.
