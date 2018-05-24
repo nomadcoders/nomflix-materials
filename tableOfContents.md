@@ -8,7 +8,7 @@ class: middle, center
 
 # Program
 
-* **Day One**:
+* [**Day One**](/dayOne):
 
   * Overview of the current Front-end landscape that a junior developer has to face when starting to work with JS.
   * Explanation of the tools that are gonna be used on the course and why.

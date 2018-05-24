@@ -3,3 +3,7 @@
 body {
   font-family: "Maven Pro", sans-serif;
 }
+
+img {
+  max-width: 100%;
+}
