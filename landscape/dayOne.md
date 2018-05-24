@@ -1,12 +1,10 @@
 class: middle, center
 
-# Day One
+# The landscape
 
 ## Setup, ES6, CSSNext
 
 ---
-
-# The landscape
 
 ![:scale 20%](./html5-css3.png)
 

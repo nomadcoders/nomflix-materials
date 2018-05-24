@@ -8,11 +8,10 @@ class: middle, center
 
 # Program
 
-* [**Day One**](/dayOne):
+* **Day One**:
 
-  * Overview of the current Front-end landscape that a junior developer has to face when starting to work with JS.
-  * Explanation of the tools that are gonna be used on the course and why.
-  * Introduction to NodeJS.
+  * Overview of the current Front-end landscape that a junior developer has to face when starting to work with Javascript with an explanation of the tools that are gonna be used on the course and why. [👉](/landscape)
+  * Introduction to NodeJS. [👉](/introToNode)
   * ES6 & CSSNext overview and explanation.
   * Quick review of ES6 features.
   * Practice: Setting up Webpack.
