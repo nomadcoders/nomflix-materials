@@ -43,3 +43,23 @@ Rules
 # Challenge: 06
 
 ![:scale 100%](./challenge6.png)
+
+---
+
+# Challenge: 07
+
+### Desktop
+
+![:scale 50%](./challenge7.png)
+
+### Mobile
+
+![:scale 10%](./challenge7.1.png)
+
+---
+
+# Challenge: 08
+
+#### \*with areas
+
+![:scale 100%](./challenge8.png)
