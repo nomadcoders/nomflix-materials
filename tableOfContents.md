@@ -22,7 +22,7 @@ class: middle, center
 
   * Set up Webpack with HTML, Dev Server, CSS Next.
   * Introduction to CSS Grid. [👉](/nomflix-materials/cssGridIntro/)
-  * Practice / Homework: Impossible layouts with CSS Grid.
+  * Practice / Homework: [Challenges](/nomflix/cssGridIntro/challenges).
   * Q&A.
 
 ---
