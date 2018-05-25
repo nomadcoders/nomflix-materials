@@ -96,7 +96,7 @@ class: middle, center
 
 --
 
-* Challenges!
+* [Challenges!](/nomflix-materials/cssGridIntro/challenges)
 
 ---
 
