@@ -24,6 +24,7 @@ class: middle, center
   * Introduction to CSS Grid. [👉](/nomflix-materials/cssGridIntro/)
   * Practice / Homework: [Challenges](/nomflix-materials/cssGridIntro/challenges).
   * Q&A.
+  * [Github Commit.](https://github.com/nomadcoders/nomflix/commit/4070efc2559486ada99d3ad95f092003648c1201)
 
 ---
 
