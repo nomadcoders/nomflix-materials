@@ -94,10 +94,6 @@ class: middle, center
 
 * `grid-X-start` and `grid-X-end`: Placing items arbitrary.
 
---
-
-* [Challenges!](/nomflix-materials/cssGridIntro/challenges)
-
 ---
 
 # Agenda
