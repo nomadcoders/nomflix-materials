@@ -35,7 +35,7 @@ class: middle, center
   * Learn how to use Vanilla JavaScript to make HTML interactive.
   * Overview of the most common patterns and best practices to work with JS and HTML.
   * Learn how to make your code better by setting up ESLint.
-  * Practice / Homework: TBA.
+  * Practice / Homework: To Do List.
   * Q&A.
 
 * **Day Four**:
