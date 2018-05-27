@@ -43,8 +43,9 @@ class: middle, center
 
   * Overview of the Nomflix project, scope, requirements and tools.
   * Practice: We will build a small video player using HTML5 and ES6.
-  * Homework: Implement the header and home page video of Netflix.
+  * Homework: Implement the header and home page video of Netflix / Open an account in [now.sh](https://zeit.co/now).
   * Q&A.
+  * [Header Scroll Sandbox](https://codesandbox.io/s/v1qop5qnp5) / [Video Sanbox](https://codesandbox.io/s/ly7z43ono7)
 
 ---
 
