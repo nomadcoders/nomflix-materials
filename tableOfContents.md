@@ -57,6 +57,8 @@ class: middle, center
   * Learn how we can upload the production ready site to now.sh.
   * Live coding: Netflix Coverflow effect using ES6.
   * Q&A.
+  * [Cover Flow part One](https://codesandbox.io/s/qzvl6nlzw6)
+  * Github Commits [1](https://github.com/nomadcoders/nomflix/commit/9bc9110ce11505700afd0ac3be87b65a57fa3e75) [2](https://github.com/nomadcoders/nomflix/commit/3094cd41e994ccfe7cfded1860574bb0e326e39d)
 
 * **Day Six**:
 
