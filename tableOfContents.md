@@ -66,9 +66,7 @@ class: middle, center
   * Practice: Experiments with Web APIs.
   * Homework: Add some WebAPIs to Netflix Clone.
   * Q&A.
-  * [Coverflow](https://codesandbox.io/s/j7p3rrz023)
-  * [Talk to me](https://codesandbox.io/s/oqv02moo9y)
-  * [Where the F am I](https://codesandbox.io/s/92r2q8xnwp)
+  * [Coverflow](https://codesandbox.io/s/j7p3rrz023) / [Talk to me](https://codesandbox.io/s/oqv02moo9y) / [Where the F am I](https://codesandbox.io/s/92r2q8xnwp)
 
 * **Day Seven**:
 
