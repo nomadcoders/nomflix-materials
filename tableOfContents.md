@@ -77,8 +77,8 @@ class: middle, center
   * Finishing the Netflix Clone.
   * Q&A.
   * Where to go next?
-  * [Fullscreen](https://codesandbox.io/s/kk0ny8m8ko) / [Monster](https://codesandbox.io/s/x7vn665mzq)
-  * [Github Commit (Webpack HTMLS)](https://github.com/nomadcoders/nomflix/commit/e0d6a5f60a67d34f110633f6fdc95a8dc13513e9)
+  * [Fullscreen](https://codesandbox.io/s/kk0ny8m8ko) / [Monster Hunter JS](https://codesandbox.io/s/x7vn665mzq)
+  * [Github Commit (Webpack Two HTMLs)](https://github.com/nomadcoders/nomflix/commit/e0d6a5f60a67d34f110633f6fdc95a8dc13513e9)
 
 ---
 
