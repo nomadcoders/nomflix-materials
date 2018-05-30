@@ -68,11 +68,17 @@ class: middle, center
   * Q&A.
   * [Coverflow](https://codesandbox.io/s/j7p3rrz023) / [Talk to me](https://codesandbox.io/s/oqv02moo9y) / [Where the F am I](https://codesandbox.io/s/92r2q8xnwp)
 
+---
+
+# Program
+
 * **Day Seven**:
 
   * Finishing the Netflix Clone.
   * Q&A.
   * Where to go next?
+  * [Fullscreen](https://codesandbox.io/s/kk0ny8m8ko) / [Monster](https://codesandbox.io/s/x7vn665mzq)
+  * [Github Commit (Webpack HTMLS)](https://github.com/nomadcoders/nomflix/commit/e0d6a5f60a67d34f110633f6fdc95a8dc13513e9)
 
 ---
 
