@@ -32,15 +32,17 @@ class: middle, center
 
   - Learn how to use Vanilla JavaScript to make HTML interactive.
   - Overview of the most common patterns and best practices to work with JS and HTML.
-  - Learn how to make your code better by setting up ESLint.
-  - Practice / Homework: To Do List.
+  - Web APIs: Local Storage, Geolocation, Audio API, Google Maps.
+  - Practice / Homework: TBA.
   - Q&A.
 
 - **Day Four**:
 
   - Overview of the Nomflix project, scope, requirements and tools.
-  - Practice: We will build a small video player using HTML5 and ES6.
-  - Homework: Implement the header and home page video of Netflix / Open an account in [now.sh](https://zeit.co/now).
+  - We will modify Webpack to be able to handle different environments (production / development).
+  - Live coding: Netflix Coverflow effect using ES6. We will build a small video player using HTML5 and ES6.
+  - Learn how we can upload the production ready site to now.sh and Github Pages.
+  - Homework: Implement the home page video of Netflix / Open an account in [now.sh](https://zeit.co/now).
   - Q&A.
 
 ---
@@ -49,17 +51,16 @@ class: middle, center
 
 - **Day Five**:
 
-  - We will modify Webpack to be able to handle different environments (production / development).
-  - Learn how we can upload the production ready site to now.sh.
-  - Live coding: Netflix Coverflow effect using ES6.
+  - Creating a Backend Server with NodeJS and Express.
+  - Introduction to API Building (Routes, Requests, Responses).
+  - Homework: Finish Netflix Clone, upload it to Github Pages and upload the Express backend to now.sh
   - Q&A.
-  - [Cover Flow part One](https://codesandbox.io/s/qzvl6nlzw6)
 
 - **Day Six**:
 
-  - Web APIs: Local Storage, Geolocation, Audio API, Google Maps.
-  - Practice: Experiments with Web APIs.
-  - Homework: Add some WebAPIs to Netflix Clone.
+  - Introduction to MongoDB.
+  - Introduction to DB Schema Modeling.
+  - Creating the Netflix Movie and Category Models.
   - Q&A.
 
 ---
@@ -68,7 +69,9 @@ class: middle, center
 
 - **Day Seven**:
 
-  - Finishing the Netflix Clone.
+  - Introduction to AJAX
+  - Small AJAX Experiments.
+  - Getting and Painting data from the API
   - Q&A.
   - Where to go next?
 
