@@ -16,6 +16,11 @@ class: middle, center
   - Quick review of ES6 features.
   - Practice: Setting up Webpack.
   - Q&A.
+  - [Github Commit](https://github.com/nomadcoders/nomflix2/commit/775feee7df16b05a95b729f6730d9a64d81a0430)
+  - Homework:
+    1.  Update your Webpack with mine
+    2.  Extend Webpack configuration so you can have a development server (this means a html page that refreshes with your code everytime you save)
+    3.  Have two commands, one to build and compress the code and one to have a development server.
 
 - **Day Two**:
 
