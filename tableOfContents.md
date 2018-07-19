@@ -22,6 +22,8 @@ class: middle, center
     2.  Extend Webpack configuration so you can have a development server (this means a html page that refreshes with your code everytime you save)
     3.  Have two commands, one to build and compress the code and one to have a development server.
 
+---
+
 - **Day Two**:
 
   - Set up Webpack with HTML, Dev Server, CSS Next.
