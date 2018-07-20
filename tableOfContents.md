@@ -43,6 +43,13 @@ class: middle, center
   - Web APIs: Local Storage, Geolocation, Audio API, Google Maps.
   - Practice / Homework: TBA.
   - Q&A.
+  - [Github Commit (PostCSS)](https://github.com/nomadcoders/nomflix2/commit/de8a04fdf8acbb2b117a261041cff642e31f2e13)
+  - Homework: Netflix Video + Header on Codesanbox or Webpack or Parcel AND complete / uncomplete To Do.
+  - [Header Sanbox](https://codesandbox.io/s/3q3w0oj546)
+  - [Video Sanbox](https://codesandbox.io/s/w04plw2lk5)
+  - [To Do](https://codesandbox.io/s/14qm319zx7)
+
+---
 
 - **Day Four**:
 
