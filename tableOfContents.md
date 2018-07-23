@@ -49,6 +49,8 @@ class: middle, center
   - [Video Sanbox](https://codesandbox.io/s/w04plw2lk5)
   - [To Do](https://codesandbox.io/s/14qm319zx7)
 
+---
+
 - **Day Four**:
 
   - Overview of the Nomflix project, scope, requirements and tools.
@@ -57,6 +59,12 @@ class: middle, center
   - Learn how we can upload the production ready site to now.sh and Github Pages.
   - Homework: Implement the home page video of Netflix / Open an account in [now.sh](https://zeit.co/now).
   - Q&A.
+  - Homework:
+    - Make the homework pretty
+    - Turn to Parcel
+    - User Advanced CSS
+    - Deploy to GH-Pages
+  - [Github Commit](https://github.com/nomadcoders/nomflix2)
 
 ---
 
